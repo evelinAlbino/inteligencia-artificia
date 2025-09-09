@@ -1,4 +1,3 @@
-@@ -0,0 +1,82 @@
 import { aleatorio, nome } from './aleatorio.js';
 import { perguntas } from './perguntas.js';
 
